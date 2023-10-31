@@ -1,0 +1,4 @@
+repository "qaqaCompany_ForceCore@qaqa@cloud"
+  path "/"
+    br "/main"
+    co "/main"
